@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cleopatra Hospital LOD 350 Model",
+    "description": "Revit 3D architectural & structural LOD 350 model with Navisworks multidisciplinary clash resolution matrix.",
+    "thumb": "assets/images/bim_cleopatra.jpg"
+  },
+  {
+    "title": "Midtown Sky Automated QTO Engine",
+    "description": "Automated quantity takeoff extraction from Revit models using Dynamo workflows, reducing estimation discrepancies.",
+    "thumb": "assets/images/bim_midtown_sky.jpg"
+  },
+  {
+    "title": "Misr Insurance Federated Coordination",
+    "description": "Navisworks multidisciplinary clash coordination matrix resolving 250+ spatial conflicts before mobilization.",
+    "thumb": "assets/images/bim_misr_insurance.jpg"
+  },
+  {
+    "title": "New Giza Villas Parametric Modeling",
+    "description": "Parametric LOD 350 modeling and automated shop drawing generation for 37 luxury residential villas.",
+    "thumb": "assets/images/bim_new_giza.jpg"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "p-01",
+    "name": {
+      "ar": "مشروع النموذجية ريزدنس - فلل بلوك رقم (3)",
+      "en": "Al-Namouthajiyah Residence - Block 3 Villas"
+    },
+    "client": {
+      "ar": "شركة روف للتطوير والإستثمار العقاري",
+      "en": "Rove Real Estate Development"
+    },
+    "type": {
+      "ar": "سكني وفلل فاخرة",
+      "en": "Residential"
+    },
+    "role": {
+      "ar": "رئيس فريق التسعير وإعداد العطاءات",
+      "en": "Bidding & Cost Estimation Lead"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 17.32 مليون ريال. إعداد التحليل السعري الشامل، وحساب التكاليف المباشرة وغير المباشرة، وهيكلة العرض المالي الفائز.",
+      "en": "Awarded Contract (2026) | Value: SAR 17.32M. Conducted comprehensive rate analysis, direct/indirect cost breakdown, and commercial bid optimization."
+    },
+    "status": "awarded",
+    "featured": true,
+    "thumb": "assets/images/new_giza.jpg"
+  },
+  {
+    "id": "p-02",
+    "name": {
+      "ar": "مستشفى جامعة الإمام عبدالرحمن بن فيصل والمراكز التابعة",
+      "en": "Imam Abdulrahman Bin Faisal University Hospital"
+    },
+    "client": {
+      "ar": "جامعة الإمام عبدالرحمن بن فيصل",
+      "en": "Imam Abdulrahman Bin Faisal University"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "رئيس دراسة العطاءات والتسعير التنافسي",
+      "en": "Bidding & Cost Estimation Lead"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 39.98 مليون ريال. تسعير خدمات تشغيل المستشفى الجامعي والمراكز الطبية التابعة وفق أعلى معايير مكافحة العدوى.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 39.98M. Comprehensive university hospital facility maintenance and healthcare operational cost modeling."
+    },
+    "status": "expected",
+    "featured": true,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-03",
+    "name": {
+      "ar": "مناولة منافذ المنطقة الشرقية (سلوى - الخفجي - الرقعي)",
+      "en": "Eastern Region Border Ports Handling"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس أول عطاءات وحساب تكاليف",
+      "en": "Senior Tendering & Cost Engineer"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 10.84 مليون ريال. إعداد نمذجة التكاليف التشغيلية ومعدات المناولة بالمنافذ البرية الحيوية وتقديم العطاء الفائز.",
+      "en": "Awarded Contract (2026) | Value: SAR 10.84M. Covered Salwa, Khafji, and Raqai ports. Executed full operational cost and logistics equipment pricing."
+    },
+    "status": "awarded",
+    "featured": true,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-04",
+    "name": {
+      "ar": "أبراج ميدتاون سكاي السكنية",
+      "en": "Midtown Sky Residential Towers"
+    },
+    "client": {
+      "ar": "شركة بتر هوم للاستثمار العقاري",
+      "en": "Better Home Real Estate"
+    },
+    "type": {
+      "ar": "سكني وأبراج",
+      "en": "Residential"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني وحساب تكاليف",
+      "en": "Cost Estimation & Coordination"
+    },
+    "impact": {
+      "ar": "الميزانية: 600 مليون جنيه | برجان سكنيان بارتفاع 12 طابقاً (>10,000 م²). إعداد حصر الكميات الشامل وتحليل التكاليف وهندسة قيمية وفرت 10% من الكميات.",
+      "en": "Budget: EGP 600M | Two 12-story residential towers (>10,000 m²). Performed comprehensive QTO, rate breakdown, and 10% quantity optimization."
+    },
+    "status": "completed",
+    "featured": true,
+    "thumb": "assets/images/midtown_sky.jpg"
+  },
+  {
+    "id": "p-05",
+    "name": {
+      "ar": "مشروع توسعة مستشفى كليوباترا التخصصي",
+      "en": "Cleopatra Hospital Expansion"
+    },
+    "client": {
+      "ar": "مجموعة مستشفيات كليوباترا",
+      "en": "Cleopatra Hospitals Group"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني ونمذجة BIM",
+      "en": "Technical Office & BIM Lead"
+    },
+    "impact": {
+      "ar": "الميزانية: 213 مليون جنيه | نمذجة دقيقة LOD 350 للأعمال المعمارية والإنشائية، وتدقيق جداول الكميات، وحل مصفوفة تعارضات MEP المعقدة.",
+      "en": "Budget: EGP 213M | High-precision architectural & structural LOD 350 modeling, BOQ audit, and complex MEP clash matrix resolution."
+    },
+    "status": "completed",
+    "featured": true,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-06",
+    "name": {
+      "ar": "مجمع مخازن شركة مصر للتأمين اللوجستي",
+      "en": "Misr Insurance Storage Facility"
+    },
+    "client": {
+      "ar": "شركة مصر للتأمين",
+      "en": "Misr Insurance Holding Company"
+    },
+    "type": {
+      "ar": "صناعي وتخزين",
+      "en": "Industrial Facility"
+    },
+    "role": {
+      "ar": "قائد فريق BIM ومكتب فني",
+      "en": "BIM Lead & Technical Office"
+    },
+    "impact": {
+      "ar": "الميزانية: 472 مليون جنيه | التنسيق الشامل لنماذج الـ BIM وكشف التعارضات عبر Navisworks وإدارة RFIs دون أي تعارض بالموقع.",
+      "en": "Budget: EGP 472M | Multidisciplinary BIM coordination, Navisworks clash resolution, and RFI/submittals management with zero site clashes."
+    },
+    "status": "completed",
+    "featured": false,
+    "thumb": "assets/images/misr_insurance.jpg"
+  },
+  {
+    "id": "p-07",
+    "name": {
+      "ar": "مشروع فيلات نيو جيزة الفاخرة",
+      "en": "New Giza Luxury Villas"
+    },
+    "client": {
+      "ar": "شركة نيو جيزة للتنمية",
+      "en": "New Giza Developments"
+    },
+    "type": {
+      "ar": "سكني وفلل فاخرة",
+      "en": "Residential"
+    },
+    "role": {
+      "ar": "قائد فريق BIM للمكتب الفني",
+      "en": "BIM Team Leader"
+    },
+    "impact": {
+      "ar": "قيادة فريق من 8 مهندسي BIM لـ 37 فيلا فاخرة. تحقيق وفر بنسبة 10% عبر الهندسة القيمية ونمذجة لوحات الورشة التنفيذية.",
+      "en": "Led 8 BIM engineers for 37 luxury villas. Achieved 10% cost reduction via BIM value engineering and zero on-site spatial conflicts."
+    },
+    "status": "completed",
+    "featured": false,
+    "thumb": "assets/images/new_giza.jpg"
+  },
+  {
+    "id": "p-08",
+    "name": {
+      "ar": "كمبوند الفردوس السكني",
+      "en": "El-Fardous Residential Compound"
+    },
+    "client": {
+      "ar": "هيئة المجتمعات العمرانية",
+      "en": "New Urban Communities Authority"
+    },
+    "type": {
+      "ar": "سكني ومجمعات",
+      "en": "Residential"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني ونمذجة إنشائية",
+      "en": "BIM Technical Office Engineer"
+    },
+    "impact": {
+      "ar": "6 مبانٍ سكنية (6 طوابق، مسطح ~710 م² للدور). تدقيق ومراجعة تسليح العناصر الخرسانية وضبط الهدر الإنشائي.",
+      "en": "6 residential buildings (6 floors each, ~710 m²/floor). Rebar optimization, concrete monitoring, and zero concrete execution waste."
+    },
+    "status": "completed",
+    "featured": false,
+    "thumb": "assets/images/el_fardous.jpg"
+  },
+  {
+    "id": "p-09",
+    "name": {
+      "ar": "مشروع جاردينيا السكني المتكامل",
+      "en": "Gardenia Residential Development"
+    },
+    "client": {
+      "ar": "صندوق الإسكان الاجتماعي",
+      "en": "Social Housing & Mortgage Finance Fund"
+    },
+    "type": {
+      "ar": "سكني وتطوير حضري",
+      "en": "Residential"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني وهندسة قيمية",
+      "en": "BIM & Value Engineering"
+    },
+    "impact": {
+      "ar": "22 عمارة سكنية (~750 م²/دور). مراجعة جداول تفريد حديد التسليح لـ 20 فيلا محققاً وفراً مالياً موثقاً بقيمة 4 ملايين جنيه.",
+      "en": "22 residential buildings (~750 m²/floor). Part of 20-villa rebar audit yielding EGP 4M documented cost savings."
+    },
+    "status": "completed",
+    "featured": false,
+    "thumb": "assets/images/gardenia.jpg"
+  },
+  {
+    "id": "p-10",
+    "name": {
+      "ar": "محفظة منافسات ومشاريع المناقصات الحكومية السعودية",
+      "en": "Saudi Government Tenders Portfolio"
+    },
+    "client": {
+      "ar": "الجهات والوزارات الحكومية السعودية عبر منصة اعتماد",
+      "en": "Saudi Government Entities via Etimad"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات وتسعير",
+      "en": "Bidding & Estimation Specialist"
+    },
+    "impact": {
+      "ar": "تحليل ودراسة أكثر من 680 منافسة حكومية على منصة اعتماد، والمساهمة في تنمية محفظة مشاريع بقيمة 639.8M ريال وترسيات بقيمة 65.2M+ ريال.",
+      "en": "Analyzed 680+ government competitions on Etimad. Contributed to SAR 639.8M portfolio growth with SAR 65.2M+ confirmed team awards."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-11",
+    "name": {
+      "ar": "عطاءات الجهات الحكومية والسيادية الكبرى",
+      "en": "Saudi Key Government Entities Tenders"
+    },
+    "client": {
+      "ar": "الزكاة والجمارك، وزارة الرياضة، هيئة المياه، وأمانة الرياض",
+      "en": "ZATCA, Ministry of Sports, SWA, Riyadh Municipality"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس تسعير ومطابقة فنية",
+      "en": "Tendering & Compliance"
+    },
+    "impact": {
+      "ar": "إعداد العروض الفنية والمالية المتوافقة بنسبة 100% دون أي استبعاد فني لكبرى الهيئات الحكومية بالمملكة.",
+      "en": "Delivered compliant bids for ZATCA, Ministry of Sports, Saudi Water Authority, Riyadh Municipality, and Red Crescent Authority."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-12",
+    "name": {
+      "ar": "مناولة المنافذ الجنوبية (الربع الخالي – الوديعة – الخضراء)",
+      "en": "Southern Border Ports Handling"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس أول عطاءات وتكاليف",
+      "en": "Senior Tendering & Cost Engineer"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 12.37 مليون ريال. تدقيق جداول الكميات الشاملة وهيكلة الموارد البشرية ومعدات المناولة الجمركية.",
+      "en": "Awarded Contract (2026) | Value: SAR 12.37M. Covering Rub Al-Khali, Al-Wadiah, and Al-Khadra ports. Comprehensive BOQ audit and commercial strategy."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-13",
+    "name": {
+      "ar": "مناولة حمالة منفذ جسر الملك فهد",
+      "en": "King Fahd Causeway Border Port Handling"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس عطاءات وحساب تكاليف",
+      "en": "Tendering & Cost Estimation"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 5.31 مليون ريال. تسعير العمليات اللوجستية التشغيلية لأحد أهم المنافذ الدولية الحيوية بالمملكة.",
+      "en": "Awarded Contract (2026) | Value: SAR 5.31M. Strategic rate breakdown and operational logistics pricing for the Kingdom's vital cross-border artery."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-14",
+    "name": {
+      "ar": "مناولة حمالة منفذ البطحاء (تحميل وتنزيل)",
+      "en": "Al-Batha Border Port Handling"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس تسعير وتحليل أسعار",
+      "en": "Tendering & Rate Analysis"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 9.06 مليون ريال. حساب تكاليف عمالة ومعدات الشحن والتفريغ وتحليل معدلات الإنتاجية وتقديم العطاء الفائز.",
+      "en": "Awarded Contract (2026) | Value: SAR 9.06M. Full scope loading and unloading logistics pricing, productivity analysis, and winning bid."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-15",
+    "name": {
+      "ar": "مناولة منفذ البطحاء (معدات وفنيين)",
+      "en": "Al-Batha Border Port Technical & Equipment Handling"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مسؤول تسعير المعدات والكوادر الفنية",
+      "en": "Cost Estimation & Pricing Lead"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 10.90 مليون ريال. تسعير المعدات الثقيلة والفرق الفنية المتخصصة بأعمال المناولة الميدانية المستمرة.",
+      "en": "Awarded Contract (2025) | Value: SAR 10.90M. Heavy machinery, technical crews, and maintenance operational cost structuring resulting in award."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-16",
+    "name": {
+      "ar": "مناولة حمالة منفذ جديدة عرعر",
+      "en": "Jadidat Arar Border Port Cargo Logistics"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات والتزام فني",
+      "en": "Tendering & Compliance"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 8.01 مليون ريال. إعداد جداول تسعير مناولة الشحنات والبضائع بالمنفذ الشمالي للمملكة ومطابقة الشروط.",
+      "en": "Awarded Contract (2025) | Value: SAR 8.01M. Northern border gateway cargo handling operations, manpower scheduling, and winning proposal."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-17",
+    "name": {
+      "ar": "عقد مناولة المنافذ الجنوبية (الوديعة - الربع الخالي - الخضراء)",
+      "en": "Southern Border Ports Operational Logistics"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس أول حساب تكاليف",
+      "en": "Senior Cost Engineer"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 12.50 مليون ريال. إدارة تسعير متعدد المواقع اللوجستية للمنافذ الجمركية البرية بالقطاع الجنوبي.",
+      "en": "Awarded Contract (2025) | Value: SAR 12.50M. Multi-site logistics handling across Al-Wadiah, Rub Al-Khali, and Al-Khadra border customs."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-18",
+    "name": {
+      "ar": "مناولة حمالة المنافذ الشرقية (سلوى – الرقعي – الخفجي)",
+      "en": "Eastern Ports Handling Services Contract"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس عطاءات وتفكيك أسعار",
+      "en": "Bidding & Rate Breakdown"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 10.90 مليون ريال. مناولة جمركية متكاملة بالمنافذ الشرقية بنسبة تأهيل فني 100% ودون ملاحظات.",
+      "en": "Awarded Contract (2025) | Value: SAR 10.90M. Salwa, Raqai, and Khafji border customs handling services with zero qualification non-conformities."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-19",
+    "name": {
+      "ar": "مناولة منفذ البطحاء (عمال تحميل وتنزيل)",
+      "en": "Al-Batha Cargo Manpower Logistics"
+    },
+    "client": {
+      "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)",
+      "en": "Zakat, Tax and Customs Authority (ZATCA)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس تقدير تكاليف العمالة والتشغيل",
+      "en": "Cost Estimation Engineer"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 9.11 مليون ريال. دراسة وهيكلة تكاليف العمالة اللوجستية والإقامة والنقل وإعداد العرض المالي.",
+      "en": "Awarded Contract (2025) | Value: SAR 9.11M. Comprehensive manpower labor rate analysis, accommodation, transport, and commercial pricing."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-20",
+    "name": {
+      "ar": "مشروع استبدال البنية التحتية لشبكة المياه الرئيسية",
+      "en": "Special Security Forces Water Network Infrastructure"
+    },
+    "client": {
+      "ar": "قوات الأمن الخاصة",
+      "en": "Special Security Forces"
+    },
+    "type": {
+      "ar": "بنية تحتية وشبكات مياه",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "حصر كميات وتسعير أعمال البنية التحتية",
+      "en": "Quantity Surveying & Pricing"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 1.25 مليون ريال. استبدال شبكة التغذية الرئيسية للمياه بإسكان مدينة الأمير نايف الأمنية (المرحلة الثالثة).",
+      "en": "Awarded Contract (2025) | Value: SAR 1.25M. Prince Naif Security City Phase 3 main water supply network replacement and pipeline trenching QTO."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-21",
+    "name": {
+      "ar": "تأهيل وحدة القيادة والتحكم بالمركز الرئيسي",
+      "en": "Saudi Red Crescent Command & Control Unit"
+    },
+    "client": {
+      "ar": "هيئة الهلال الأحمر السعودي",
+      "en": "Saudi Red Crescent Authority"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "دراسة عطاءات وتدقيق جداول الكميات",
+      "en": "Bidding & BOQ Verification"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2025) | القيمة: 991 ألف ريال. التأهيل المعماري والمدني وتطوير البنية التقنية لغرفة العمليات المركزية للهيئة.",
+      "en": "Awarded Contract (2025) | Value: SAR 991K. Technical rehabilitation, architectural finishes, and control room MEP systems upgrade."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-22",
+    "name": {
+      "ar": "ترميم وتأهيل مدخل مبنى هيئة الاتصالات",
+      "en": "Armed Forces Communications Building Rehabilitation"
+    },
+    "client": {
+      "ar": "رئاسة هيئة الأركان العامة",
+      "en": "General Staff Presidency"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني وتسعير",
+      "en": "Technical Office & Pricing"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 437 ألف ريال. أعمال التجديد المعماري ومداخل الأمان وواجهات المبنى والتجهيزات المدنية.",
+      "en": "Awarded Contract (2026) | Value: SAR 437K. Building entrance refurbishment, security gates architectural finishes, and site logistics."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-23",
+    "name": {
+      "ar": "ترميم وإعادة تأهيل وصيانة مبنى محافظة المجمعة",
+      "en": "Al-Majmaah Governorate HQ Facility Rehabilitation"
+    },
+    "client": {
+      "ar": "إمارة منطقة الرياض",
+      "en": "Riyadh Region Governorate"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات وتسعير ترميم",
+      "en": "Tendering & Estimating"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 229 ألف ريال. أعمال الصيانة والمعالجة الإنشائية والتشطيبات المعمارية لمقر المحافظة.",
+      "en": "Awarded Contract (2026) | Value: SAR 229K. Comprehensive maintenance, concrete treatment, surface restoration, and administrative building retrofit."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-24",
+    "name": {
+      "ar": "تأمين أعمال صيانة ومعالجة مبنى محافظة شقراء",
+      "en": "Shaqra Governorate Building Maintenance"
+    },
+    "client": {
+      "ar": "إمارة منطقة الرياض",
+      "en": "Riyadh Region Governorate"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس تسعير وصيانة منشآت",
+      "en": "Tendering & Estimating"
+    },
+    "impact": {
+      "ar": "عقد مترسي (2026) | القيمة: 77 ألف ريال. معالجة وتأهيل الفواصل الإنشائية والعزل المائي والدهانات لمبنى المحافظة.",
+      "en": "Awarded Contract (2026) | Value: SAR 77K. Specialized structural crack repair, waterproofing maintenance, and architectural touch-ups."
+    },
+    "status": "awarded",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-25",
+    "name": {
+      "ar": "الصيانة والنظافة والتشغيل لمستشفى الرعاية المديدة بالرياض",
+      "en": "Long-Term Care Hospital Non-Medical Operation"
+    },
+    "client": {
+      "ar": "تجمع الرياض الصحي الأول",
+      "en": "Riyadh First Health Cluster"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس أول تسعير منشآت صحية",
+      "en": "Senior Tendering Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 38.00 مليون ريال. تشغيل وصيانة مرافئ التنويم والرعاية المديدة وفق بروتوكولات التعقيم المعتمدة.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 38.00M. Non-medical facility operations, sterilization standards, and specialized patient ward management."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-26",
+    "name": {
+      "ar": "تشغيل وصيانة ونظافة مباني المديرية العامة للسجون بالرياض",
+      "en": "General Directorate of Prisons HQ Facilities"
+    },
+    "client": {
+      "ar": "المديرية العامة للسجون",
+      "en": "General Directorate of Prisons"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس تسعير ونمذجة تكاليف المنشآت",
+      "en": "Cost Estimation & Rate Modeling"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 35.09 مليون ريال. صيانة المرافق والأنظمة الكهروميكانيكية والتشغيل الأمني المتكامل للمقار.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 35.09M. High-security administrative complex facility maintenance, preventive engineering, and utilities management."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-27",
+    "name": {
+      "ar": "صيانة وتشغيل مدينة الملك فهد الرياضية بالطائف",
+      "en": "King Fahd Sports City Operation & Maintenance"
+    },
+    "client": {
+      "ar": "وزارة الرياضة",
+      "en": "Ministry of Sports"
+    },
+    "type": {
+      "ar": "بنية تحتية ومنشآت رياضية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس أول عطاءات وتكاليف الملاعب",
+      "en": "Senior Tendering & Cost Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 26.72 مليون ريال. تشغيل الاستاد الرياضي الدولي والملاعب الرديفة والمرافق الكهروميكانيكية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 26.72M. Multi-venue stadium complex, natural turf pitches, spectator facilities, and electromechanical systems."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/midtown_sky.jpg"
+  },
+  {
+    "id": "p-28",
+    "name": {
+      "ar": "عقد تشغيل وصيانة مستشفى القوات المسلحة بالمدينة المنورة",
+      "en": "Armed Forces Hospital Operation & Maintenance"
+    },
+    "client": {
+      "ar": "مستشفى القوات المسلحة بالمدينة المنورة",
+      "en": "Armed Forces Hospital Madinah"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس عطاءات المنشآت الطبية العسكرية",
+      "en": "Tendering & Cost Estimation"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 19.98 مليون ريال. التشغيل والصيانة الشاملة للبنية التحتية للمستشفى وشبكات الغازات الطبية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 19.98M. Comprehensive military hospital infrastructure, specialized medical gas networks, and facility operation."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-29",
+    "name": {
+      "ar": "التشغيل والصيانة لمنشآت المدينة الطبية بجامعة القصيم",
+      "en": "Qassim University Medical City Complex"
+    },
+    "client": {
+      "ar": "جامعة القصيم",
+      "en": "Qassim University"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس حساب تكاليف وتدقيق جداول الكميات",
+      "en": "Cost Estimation & BOQ Audit"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 19.76 مليون ريال. صيانة مباني المدينة الطبية والمختبرات السريرية ومستشفى الجامعة التعليمي.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 19.76M. Medical city facilities, clinical laboratories, teaching hospital wards, and electromechanical infrastructure."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-30",
+    "name": {
+      "ar": "تشغيل وصيانة ونظافة وزراعة فروع الوزارة",
+      "en": "Ministry of Energy Regional Branches Operation"
+    },
+    "client": {
+      "ar": "وزارة الطاقة",
+      "en": "Ministry of Energy"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات وعروض تجارية",
+      "en": "Bidding & Commercial Proposal"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 17.16 مليون ريال. تشغيل وصيانة فروع الوزارة بمختلف مناطق المملكة والأنظمة الإدارية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 17.16M. Nationwide branch facilities, landscaping, environmental systems, and administrative asset maintenance."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-31",
+    "name": {
+      "ar": "صيانة ونظافة وتشغيل نادي الخليج بسيهات",
+      "en": "Al-Khaleej Sports Club Stadium & Complex"
+    },
+    "client": {
+      "ar": "وزارة الرياضة",
+      "en": "Ministry of Sports"
+    },
+    "type": {
+      "ar": "بنية تحتية ومنشآت رياضية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس تسعير المنشآت الرياضية",
+      "en": "Tendering & Rate Breakdown"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 14.82 مليون ريال. صيانة الاستاد الرئيسي والصالات الرياضية المغلقة والمباني الإدارية للنادي.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 14.82M. Sports stadium, training arenas, indoor sports halls, and administrative facility operational maintenance."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/midtown_sky.jpg"
+  },
+  {
+    "id": "p-32",
+    "name": {
+      "ar": "تشغيل وصيانة المزروعات بمواقع وزارة النقل بحائل",
+      "en": "Hail Transportation Landscape & Green Infrastructure"
+    },
+    "client": {
+      "ar": "أمانة منطقة حائل",
+      "en": "Hail Municipality"
+    },
+    "type": {
+      "ar": "بنية تحتية ومسطحات خضراء",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس تقدير تكاليف مشاريع التشجير والري",
+      "en": "Cost Estimation Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 11.78 مليون ريال. صيانة المسطحات الخضراء وشبكات الري الآلية على محاور الطرق الحيوية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 11.78M. Highway green belt irrigation, landscape maintenance, and urban visual improvement across corridors."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/gardenia.jpg"
+  },
+  {
+    "id": "p-33",
+    "name": {
+      "ar": "خدمات النظافة للعيادات والمراكز لبرنامج مستشفى قوى الأمن",
+      "en": "Security Forces Hospital Outpatient Clinics"
+    },
+    "client": {
+      "ar": "برنامج مستشفى قوى الأمن بالرياض",
+      "en": "Security Forces Hospital Program"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس تسعير مرافق الرعاية الصحية",
+      "en": "Tendering & Compliance"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 11.26 مليون ريال. تشغيل العيادات الخارجية ومراكز طب الأسرة ونقل النفايات الطبية وفق المعايير.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 11.26M. Specialized outpatient center sanitation, medical waste handling protocols, and hygiene compliance."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-34",
+    "name": {
+      "ar": "تقديم خدمات التشغيل والصيانة لمجلس الضمان الصحي",
+      "en": "Council of Health Insurance HQ Operations"
+    },
+    "client": {
+      "ar": "مجلس الضمان الصحي",
+      "en": "Council of Health Insurance"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس نمذجة تكاليف المنشآت الذكية",
+      "en": "Cost Modeler & Estimator"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 7.63 مليون ريال. تشغيل المبنى الذكي وأنظمة التحكم في التكييف والإضاءة والخدمات المساندة.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 7.63M. Smart office maintenance, HVAC automation, smart building sensors, and facility management."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-35",
+    "name": {
+      "ar": "تشغيل وصيانة المحطات الكهربائية بميناء ينبع التجاري",
+      "en": "Yanbu Commercial Port Power Substations"
+    },
+    "client": {
+      "ar": "الهيئة العامة للموانئ (موانئ)",
+      "en": "Saudi Ports Authority (Mawani)"
+    },
+    "type": {
+      "ar": "صناعي ومحطات طاقة",
+      "en": "Industrial Facility"
+    },
+    "role": {
+      "ar": "مهندس عطاءات المحطات الكهروميكانيكية",
+      "en": "Bidding & Technical Office"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 7.39 مليون ريال. صيانة محطات الجهد المتوسط والمحولات الكهربائية وقواطع الميناء التجاري.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 7.39M. High-voltage marine substations, power transformers, switchgear maintenance, and port grid stability."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/misr_insurance.jpg"
+  },
+  {
+    "id": "p-36",
+    "name": {
+      "ar": "أعمال التحميل والتنزيل للأعمال البريدية (عسير، جازان، الباحة، نجران)",
+      "en": "Saudi Post Regional Cargo Handling Operations"
+    },
+    "client": {
+      "ar": "مؤسسة البريد السعودي (سبل)",
+      "en": "Saudi Post (SPL)"
+    },
+    "type": {
+      "ar": "بنية تحتية وموانئ لوجستية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "مهندس تسعير الخدمات اللوجستية الإقليمية",
+      "en": "Logistics & Cost Estimation"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 6.72 مليون ريال. مناولة وتفريغ الشحنات البريدية بالمراكز اللوجستية بالمنطقة الجنوبية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 6.72M. Postal logistics and hub distribution across Aseer, Jazan, Al-Baha, and Najran regions."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-37",
+    "name": {
+      "ar": "صيانة وتأهيل مستودعات التموين بالأسطول الشرقي",
+      "en": "Eastern Fleet Supply Warehouses Rehabilitation"
+    },
+    "client": {
+      "ar": "القوات البحرية الملكية السعودية",
+      "en": "Royal Saudi Naval Forces"
+    },
+    "type": {
+      "ar": "صناعي وتخزين عسكري",
+      "en": "Industrial Facility"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني وتسعير هناجر التخزين",
+      "en": "Technical Office & Pricing"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 1.02 مليون ريال. تأهيل المستودعات العسكرية والأرضيات الصناعية الإيبوكسية وأنظمة التخزين.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 1.02M. Naval base supply depots structural rehabilitation, heavy storage racks, and industrial epoxy flooring."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/misr_insurance.jpg"
+  },
+  {
+    "id": "p-38",
+    "name": {
+      "ar": "تأمين مولد كهربائي لمبنى السايكلترون الطبي",
+      "en": "Aseer Health Cluster Cyclotron Power Generator"
+    },
+    "client": {
+      "ar": "تجمع عسير الصحي",
+      "en": "Aseer Health Cluster"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس تسعير المعدات الطبية والكهربائية",
+      "en": "Equipment Cost Estimator"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 1.32 مليون ريال. تأمين وتركيب مولد طوارئ احتياطي لمبنى إنتاج النظائر المشعة الطبية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 1.32M. Critical medical imaging cyclotron facility emergency power generation and synchronization systems."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-39",
+    "name": {
+      "ar": "صيانة مركز العمليات البديل للقوات البحرية",
+      "en": "Naval Alternative Operations Center Facility"
+    },
+    "client": {
+      "ar": "القوات البحرية الملكية السعودية",
+      "en": "Royal Saudi Naval Forces"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس عطاءات المنشآت الحساسة",
+      "en": "Bidding & Security Compliance"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 788 ألف ريال. صيانة مركز القيادة والتحكم البديل وأنظمة التغذية غير المنقطعة والتكييف الدقيق.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 788K. Strategic backup operations bunker MEP maintenance, UPS backup power, and environmental controls."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-40",
+    "name": {
+      "ar": "لوحة كهربائية بمستشفى الإمام عبدالرحمن بن فيصل بالحرس الوطني",
+      "en": "National Guard Hospital Emergency Substation"
+    },
+    "client": {
+      "ar": "الشؤون الصحية بوزارة الحرس الوطني",
+      "en": "Ministry of National Guard Health Affairs"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "تسعير وحصر اللوحات والمحطات الكهربائية",
+      "en": "Electrical Pricing & QS"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 760 ألف ريال. توريد واختبار وتشغيل لوحة كهربائية رئيسية لوحدات تكييف الطوارئ بالدمام.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 760K. Dammam Emergency Department new chiller unit switchboard supply, testing, and commissioning."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-41",
+    "name": {
+      "ar": "أنسنة وتطوير الأرصفة والجزر الوسطية بالحرجة",
+      "en": "Al-Harajah Urban Road Corridors & Roundabouts"
+    },
+    "client": {
+      "ar": "بلدية محافظة الحرجة",
+      "en": "Al-Harajah Municipality"
+    },
+    "type": {
+      "ar": "بنية تحتية ومحاور طرق",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "حصر وتسعير أعمال البنية البلدية والأنسنة",
+      "en": "Infrastructure Quantity Surveyor"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 742 ألف ريال. تطوير أرصفة المشاة والجزر والتقاطعات المرورية على شارع الملك خالد.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 742K. King Khalid Road median islands, pedestrian sidewalk humanization, and road junction geometric upgrades."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/el_fardous.jpg"
+  },
+  {
+    "id": "p-42",
+    "name": {
+      "ar": "مشروع تطوير مبنى إدارة سلاسل الإمداد بجازان",
+      "en": "Jazan Health Supply Chain Management Building"
+    },
+    "client": {
+      "ar": "تجمع جازان الصحي",
+      "en": "Jazan Health Cluster"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات وتطوير مستودعات أدوية",
+      "en": "Commercial Bid Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 581 ألف ريال. تطوير المستودعات الطبية المركزية وغرف التبريد والتحكم الحراري للأدوية.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 581K. Pharmaceutical cold store logistics facility modernization, temperature monitoring, and loading docks."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-43",
+    "name": {
+      "ar": "ترميم صالة الإيجاز برئاسة أركان القوات البرية",
+      "en": "Land Forces General Staff VIP Briefing Halls"
+    },
+    "client": {
+      "ar": "القوات البرية الملكية السعودية",
+      "en": "Royal Saudi Land Forces"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس مكتب فني وتشطيبات معمارية خاصة",
+      "en": "Technical Office Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (2026) | العرض: 581 ألف ريال. التأهيل المعماري والصوتي لقاعات الإيجاز واستقبال كبار الضباط بالقيادة العامة.",
+      "en": "Expected Win - Rank 1 (2026) | Offer: SAR 581K. VIP reception and high-command briefing suites acoustic architectural fit-out and presentation systems."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-44",
+    "name": {
+      "ar": "مشروع تأمين أنظمة UPS للتجمع الصحي بعسير",
+      "en": "Aseer Health Cluster Critical UPS Power Infrastructure"
+    },
+    "client": {
+      "ar": "تجمع عسير الصحي",
+      "en": "Aseer Health Cluster"
+    },
+    "type": {
+      "ar": "صحي واستشفائي",
+      "en": "Medical Facility"
+    },
+    "role": {
+      "ar": "تسعير ومطابقة أنظمة الطاقة غير المنقطعة",
+      "en": "Pricing & Compliance Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الأولى (مجتاز التأهيل) (2026) | العرض: 179 ألف ريال. تأمين وحدات الطاقة المستمرة لغرف العناية المركزة والعمليات.",
+      "en": "Expected Win - Rank 1 (Prequal Passed) (2026) | Offer: SAR 179K. Uninterruptible power supply units for ICU, neonatal, and operating theater emergency circuits."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/cleopatra_hospital.jpg"
+  },
+  {
+    "id": "p-45",
+    "name": {
+      "ar": "محطات تحلية مياه البحر بالساحلين الشرقي والغربي",
+      "en": "Saudi Water Authority Mega Desalination Plants"
+    },
+    "client": {
+      "ar": "الهيئة السعودية للمياه",
+      "en": "Saudi Water Authority"
+    },
+    "type": {
+      "ar": "بنية تحتية ومحطات تحلية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "قائد فريق تسعير المناقصات الكبرى",
+      "en": "Mega-Tender Estimation Lead"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (2026) | العرض: 95.54 مليون ريال. أعمال الصيانة البيئية ومكافحة الآفات بمنظومات الإنتاج الاستراتيجية للتحلية.",
+      "en": "Expected Win - Rank 2 (2026) | Offer: SAR 95.54M. Strategic industrial desalination facilities across eastern and western coastal production hubs."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-46",
+    "name": {
+      "ar": "مباني الدفاع المدني بمنطقة الرياض",
+      "en": "Civil Defense Headquarters & Facilities"
+    },
+    "client": {
+      "ar": "المديرية العامة للدفاع المدني",
+      "en": "General Directorate of Civil Defense"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس تسعير وحساب تكاليف المرافق الأمنية",
+      "en": "Tendering & Rate Analysis"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (مجتاز التأهيل) (2026) | العرض: 10.99 مليون ريال. صيانة المرافق والعمليات الميدانية لمراكز الدفاع المدني.",
+      "en": "Expected Win - Rank 2 (Prequal Passed) (2026) | Offer: SAR 10.99M. Multi-station emergency operations, training yards, and fire brigade facilities management."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-47",
+    "name": {
+      "ar": "مباني الهيئة العامة للنقل",
+      "en": "Transport General Authority HQ Complex"
+    },
+    "client": {
+      "ar": "الهيئة العامة للنقل",
+      "en": "Transport General Authority"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس عطاءات ودراسة تكاليف",
+      "en": "Tendering Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (مجتاز التأهيل) (2026) | العرض: 8.53 مليون ريال. تشغيل المبنى الرئيسي للهيئة ومرافق التفتيش والنقل العام.",
+      "en": "Expected Win - Rank 2 (Prequal Passed) (2026) | Offer: SAR 8.53M. Administrative headquarters operation, fleet maintenance bay servicing, and facilities management."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-48",
+    "name": {
+      "ar": "مقر هيئة تطوير محمية الملك عبدالعزيز بالدهناء",
+      "en": "King Abdulaziz Royal Reserve HQ Complex"
+    },
+    "client": {
+      "ar": "محمية الملك عبدالعزيز الملكية",
+      "en": "King Abdulaziz Royal Reserve"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس دراسة عطاءات وتكاليف مواقع نائية",
+      "en": "Tendering & Cost Engineer"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (2026) | العرض: 5.57 مليون ريال. تشغيل المقر البيئي للمحمية وأنظمة الطاقة الشمسية بالمواقع الصحراوية.",
+      "en": "Expected Win - Rank 2 (2026) | Offer: SAR 5.57M. Eco-sensitive desert reserve headquarters, solar power integration, and remote site logistics."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/ain_sokhna_port.jpg"
+  },
+  {
+    "id": "p-49",
+    "name": {
+      "ar": "فرع وزارة العدل بمنطقة المدينة المنورة والمرافق التابعة",
+      "en": "Ministry of Justice Madinah Judicial Complex"
+    },
+    "client": {
+      "ar": "وزارة العدل - الديوان العام",
+      "en": "Ministry of Justice"
+    },
+    "type": {
+      "ar": "حكومي وإداري",
+      "en": "Governmental"
+    },
+    "role": {
+      "ar": "مهندس نمذجة تكاليف المنشآت العدلية",
+      "en": "Commercial Cost Modeler"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (2026) | العرض: 4.54 مليون ريال. تشغيل المجمعات القضائية والمحاكم والدوائر العدلية بالمدينة المنورة.",
+      "en": "Expected Win - Rank 2 (2026) | Offer: SAR 4.54M. Courthouse buildings, judicial chambers, public service halls, and security gate operations."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/red_crescent.jpg"
+  },
+  {
+    "id": "p-50",
+    "name": {
+      "ar": "ممرات وأرصفة حدائق بلدية القويعية",
+      "en": "Al-Quway'iyah Municipal Public Parks & Walkways"
+    },
+    "client": {
+      "ar": "أمانة منطقة الرياض",
+      "en": "Riyadh Region Municipality"
+    },
+    "type": {
+      "ar": "بنية تحتية ومسطحات بلدية",
+      "en": "Infrastructure"
+    },
+    "role": {
+      "ar": "حصر كميات وتفكيك تكاليف الأرصفة",
+      "en": "QS & Cost Breakdown"
+    },
+    "impact": {
+      "ar": "متوقع الفوز بها - المرتبة الثانية (2026) | العرض: 2.47 مليون ريال. صيانة وتأهيل الممرات الخرسانية ومسارات المشاة والحدائق العامة بالمحافظة.",
+      "en": "Expected Win - Rank 2 (2026) | Offer: SAR 2.47M. Municipal public parks, pedestrian jogging trails, stone paving, and recreational plaza landscape."
+    },
+    "status": "expected",
+    "featured": false,
+    "thumb": "assets/images/gardenia.jpg"
+  }
+]

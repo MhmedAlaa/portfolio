@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohamed Alaa Saleh | Civil & BIM Engineer Portfolio</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Portfolio of Mohamed Alaa Saleh — Civil Engineer specializing in Technical Office, BIM Modeling, Clash Detection, and Cost Estimation in KSA & Egypt." />
+  <meta name="keywords" content="Mohamed Alaa, Civil Engineer, BIM Specialist, Technical Office, Cost Estimation, BOQ, Revit, AutoCAD, Navisworks, Power BI, KSA, Egypt" />
+  <meta name="author" content="Mohamed Alaa Saleh" />
+
+  <!-- Google Fonts: Poppins (EN) & Cairo (AR) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="css/font-awesome.min.css" />
+
+  <!-- Main Custom CSS -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header" id="header">
+    <a href="#hero" class="logo-container">
+      <span class="logo-text" id="logoText" data-i18n="logoName">Mohamed Alaa</span>
+      <span class="logo-sub" data-i18n="logoSub">Civil & BIM Engineer</span>
+    </a>
+
+    <nav class="nav" id="mainNav">
+      <a href="#about" data-i18n="navAbout">About</a>
+      <a href="#expertise" data-i18n="navExpertise">Expertise</a>
+      <a href="#services" data-i18n="navServices">Services</a>
+      <a href="#highlights" data-i18n="navHighlights">Highlights</a>
+      <a href="#projects" data-i18n="navProjects">Projects</a>
+      <a href="#bim" data-i18n="navBim">BIM Samples</a>
+      <a href="#timeline" data-i18n="navTimeline">Career</a>
+      <a href="#education" data-i18n="navEducation">Education</a>
+      <a href="#contact" data-i18n="navContact">Contact</a>
+    </nav>
+
+    <div class="header-actions">
+      <!-- Language Toggle Button -->
+      <button id="langToggle" class="btn-lang" aria-label="Switch Language">
+        <i class="fa fa-globe" aria-hidden="true"></i>
+        <span id="langLabel">عربي</span>
+      </button>
+
+      <!-- Mobile Menu Button -->
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- MOBILE NAVIGATION DRAWER -->
+  <div class="mobile-nav-backdrop" id="mobileNavBackdrop"></div>
+  <aside class="mobile-nav" id="mobileNav" aria-hidden="true">
+    <div class="mobile-nav-header">
+      <span class="mobile-nav-title" data-i18n="menuTitle">Navigation Menu</span>
+      <button class="mobile-nav-close" id="mobileNavClose" aria-label="Close menu">&times;</button>
+    </div>
+    <div class="mobile-nav-links">
+      <a href="#about" data-i18n="navAbout">About</a>
+      <a href="#expertise" data-i18n="navExpertise">Expertise</a>
+      <a href="#services" data-i18n="navServices">Services</a>
+      <a href="#highlights" data-i18n="navHighlights">Highlights</a>
+      <a href="#projects" data-i18n="navProjects">Projects</a>
+      <a href="#bim" data-i18n="navBim">BIM Samples</a>
+      <a href="#timeline" data-i18n="navTimeline">Career</a>
+      <a href="#education" data-i18n="navEducation">Education</a>
+      <a href="#contact" data-i18n="navContact">Contact</a>
+    </div>
+  </aside>
+
+  <main>
+    <!-- HERO SECTION -->
+    <section class="hero" id="hero">
+      <div class="hero-container">
+        <div class="hero-content">
+          <div class="hero-badge" data-i18n="heroBadge">
+            <i class="fa fa-check-circle"></i> Civil & BIM Engineer | 6+ Years Experience
+          </div>
+          <h1 class="hero-title" data-i18n="heroName">Mohamed Alaa Saleh</h1>
+          <h2 class="hero-subtitle" data-i18n="heroRole">Technical Office Engineer | BIM Specialist | Cost Estimation</h2>
+          <p class="hero-desc" data-i18n="heroDesc">
+            Delivering Cost-Optimized, BIM-Integrated Engineering Solutions for Mega Projects across Saudi Arabia & Egypt. Specialist in BOQ validation, clash detection, and bidding excellence.
+          </p>
+
+          <div class="hero-cta">
+            <a href="assets/docs/CV_Sample_Drawing.pdf" target="_blank" class="btn btn-primary" download>
+              <i class="fa fa-download" aria-hidden="true"></i>
+              <span data-i18n="btnCv">Download CV & Drawings</span>
+            </a>
+            <a href="#projects" class="btn btn-outline">
+              <i class="fa fa-briefcase" aria-hidden="true"></i>
+              <span data-i18n="btnProjects">Explore Projects</span>
+            </a>
+          </div>
+
+          <div class="hero-stats-strip">
+            <div class="stat-pill">
+              <strong>680+</strong>
+              <span data-i18n="pillTenders">Competitions Handled</span>
+            </div>
+            <div class="stat-pill">
+              <strong>639M+ SAR</strong>
+              <span data-i18n="pillSavings">Portfolio Growth</span>
+            </div>
+            <div class="stat-pill">
+              <strong>97%</strong>
+              <span data-i18n="pillAccuracy">BOQ Accuracy</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-media">
+          <div class="profile-card">
+            <div class="profile-frame">
+              <img src="assets/images/profile.jpg" alt="Mohamed Alaa Saleh" class="profile-img" loading="eager" />
+            </div>
+            <div class="profile-card-badge">
+              <i class="fa fa-building"></i>
+              <div>
+                <span class="badge-title" data-i18n="statusTitle">Current Location</span>
+                <span class="badge-sub" data-i18n="statusLocation">Riyadh, Saudi Arabia</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="about section-pad">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="aboutTag">Profile Overview</span>
+          <h2 class="section-title" data-i18n="aboutTitle">About Me</h2>
+          <div class="title-bar"></div>
+        </div>
+
+        <div class="about-grid">
+          <div class="about-card intro-card">
+            <p data-i18n="aboutP1">
+              Civil Engineer specializing in <strong>Technical Office, BIM Coordination, and Cost Estimation</strong> with over 
+              <strong>6+ years of proven track record</strong> delivering high-accuracy BOQs, fully compliant tenders, 
+              and cost-optimized engineering solutions for major governmental and private-sector mega projects in KSA & Egypt.
+            </p>
+            <p data-i18n="aboutP2">
+              Known for refining engineering workflows, eliminating rework, enhancing BOQ accuracy from 82% to 97%, resolving 
+              interdisciplinary conflicts before execution, and delivering senior management reliable financial and technical decision support.
+            </p>
+          </div>
+
+          <div class="about-highlights-card">
+            <h3 data-i18n="highlightsTitle">Core Achievements at a Glance</h3>
+            <ul class="highlights-list">
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl1">Delivered 100+ governmental tenders with 0% rejection rate.</span>
+              </li>
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl2">Achieved 30% cost savings (300K SAR) via pricing strategy and value engineering.</span>
+              </li>
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl3">Improved quantity takeoff accuracy from 82% up to 97%.</span>
+              </li>
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl4">Led and mentored a high-performing BIM team of 8 engineers.</span>
+              </li>
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl5">Saved over 4M EGP through rebar optimization and waste minimization.</span>
+              </li>
+              <li>
+                <i class="fa fa-check-square"></i>
+                <span data-i18n="hl6">Reduced on-site design conflicts by 25% through proactive Navisworks coordination.</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CORE EXPERTISE -->
+    <section id="expertise" class="expertise section-pad bg-alt">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="expertiseTag">Capabilities</span>
+          <h2 class="section-title" data-i18n="expertiseTitle">Core Expertise</h2>
+          <div class="title-bar"></div>
+        </div>
+
+        <div class="expertise-grid">
+          <div class="card expertise-card">
+            <div class="card-icon"><i class="fa fa-briefcase"></i></div>
+            <h3 data-i18n="exp1Title">Technical Office</h3>
+            <ul>
+              <li data-i18n="exp1_1">BOQ Preparation & Validation</li>
+              <li data-i18n="exp1_2">RFIs & Technical Submittals</li>
+              <li data-i18n="exp1_3">Contract & Drawing Review</li>
+              <li data-i18n="exp1_4">Specifications Compliance</li>
+              <li data-i18n="exp1_5">Risk Identification & Mitigation</li>
+            </ul>
+          </div>
+
+          <div class="card expertise-card">
+            <div class="card-icon"><i class="fa fa-cubes"></i></div>
+            <h3 data-i18n="exp2Title">BIM Engineering</h3>
+            <ul>
+              <li data-i18n="exp2_1">BIM 3D Modeling (Civil/Arch/MEP)</li>
+              <li data-i18n="exp2_2">Clash Detection (Navisworks)</li>
+              <li data-i18n="exp2_3">Automated QTO Extraction</li>
+              <li data-i18n="exp2_4">Model Audit & Standards Review</li>
+              <li data-i18n="exp2_5">Dynamo Workflow Automation</li>
+            </ul>
+          </div>
+
+          <div class="card expertise-card">
+            <div class="card-icon"><i class="fa fa-calculator"></i></div>
+            <h3 data-i18n="exp3Title">Cost Estimation</h3>
+            <ul>
+              <li data-i18n="exp3_1">Unit Rate Build-Up & Analysis</li>
+              <li data-i18n="exp3_2">Market Benchmarking (KSA & Egypt)</li>
+              <li data-i18n="exp3_3">Value Engineering Strategies</li>
+              <li data-i18n="exp3_4">Cash Flow & Cost Forecasting</li>
+              <li data-i18n="exp3_5">Subcontractor & Supplier Quotations</li>
+            </ul>
+          </div>
+
+          <div class="card expertise-card">
+            <div class="card-icon"><i class="fa fa-line-chart"></i></div>
+            <h3 data-i18n="exp4Title">Project Management</h3>
+            <ul>
+              <li data-i18n="exp4_1">CPM Scheduling & Baseline Tracking</li>
+              <li data-i18n="exp4_2">Progress Monitoring & Reporting</li>
+              <li data-i18n="exp4_3">Fast-Track Tender Deliveries</li>
+              <li data-i18n="exp4_4">Resource & Equipment Planning</li>
+              <li data-i18n="exp4_5">Executive Power BI Dashboards</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services" class="services section-pad">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="servicesTag">What I Offer</span>
+          <h2 class="section-title" data-i18n="servicesTitle">Services I Provide</h2>
+          <div class="title-bar"></div>
+        </div>
+
+        <div class="services-grid">
+          <div class="service-card">
+            <div class="service-num">01</div>
+            <h3 data-i18n="srv1Title">Tendering & Cost Estimation</h3>
+            <p data-i18n="srv1Desc">High-accuracy BOQs, competitive pricing models, full tender compliance checks, and market benchmarking for governmental and private tenders.</p>
+          </div>
+
+          <div class="service-card">
+            <div class="service-num">02</div>
+            <h3 data-i18n="srv2Title">BIM Modeling (LOD 300 - 400)</h3>
+            <p data-i18n="srv2Desc">Detailed 3D models for Civil, Architectural, and MEP systems with parametric precision, ready for execution and shop drawings.</p>
+          </div>
+
+          <div class="service-card">
+            <div class="service-num">03</div>
+            <h3 data-i18n="srv3Title">Clash Detection & Coordination</h3>
+            <p data-i18n="srv3Desc">Comprehensive Navisworks clash reports, interdisciplinary conflict resolution, and coordination meetings leadership prior to on-site work.</p>
+          </div>
+
+          <div class="service-card">
+            <div class="service-num">04</div>
+            <h3 data-i18n="srv4Title">Quantity Takeoff (QTO) Validation</h3>
+            <p data-i18n="srv4Desc">Cross-verifying 2D drawings with 3D BIM models to eliminate discrepancy, prevent procurement overruns, and ensure precise rebar cut lists.</p>
+          </div>
+
+          <div class="service-card">
+            <div class="service-num">05</div>
+            <h3 data-i18n="srv5Title">Value Engineering</h3>
+            <p data-i18n="srv5Desc">Systematic cost reduction proposals that preserve the exact architectural vision, structural integrity, and project quality parameters.</p>
+          </div>
+
+          <div class="service-card">
+            <div class="service-num">06</div>
+            <h3 data-i18n="srv6Title">Drawing Audit & Compliance</h3>
+            <p data-i18n="srv6Desc">Proactive auditing of IFC drawings and specifications to detect design omissions early, minimizing RFIs and costly field rework.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CAREER HIGHLIGHTS / STAT COUNTERS -->
+    <section id="highlights" class="highlights-section section-pad bg-dark text-white">
+      <div class="container">
+        <div class="section-header text-center">
+          <span class="section-tag section-tag-light" data-i18n="hlTag">Proven Impact</span>
+          <h2 class="section-title text-white" data-i18n="hlMainTitle">Career Highlights & Numbers</h2>
+          <div class="title-bar title-bar-teal"></div>
+        </div>
+
+        <div class="highlights-grid">
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="680">0</span>+</div>
+            <h3 data-i18n="hlCard1Title">Etimad Tenders Handled</h3>
+            <p data-i18n="hlCard1Desc">680+ government competitions analyzed with 100+ major bids personally managed.</p>
+          </div>
+
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="639">0</span>M+</div>
+            <h3 data-i18n="hlCard2Title">Company Portfolio Growth</h3>
+            <p data-i18n="hlCard2Desc">Expanded company project portfolio from SAR 82.9M to SAR 639.8M during 2025–2026.</p>
+          </div>
+
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="97">0</span>%</div>
+            <h3 data-i18n="hlCard3Title">BOQ Accuracy Rate</h3>
+            <p data-i18n="hlCard3Desc">Elevated estimation standard to 97% reliability with zero concrete execution waste.</p>
+          </div>
+
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="8">0</span></div>
+            <h3 data-i18n="hlCard4Title">BIM Engineers Led</h3>
+            <p data-i18n="hlCard4Desc">Led and mentored a specialized team of 8 BIM engineers delivering 37 luxury villas.</p>
+          </div>
+
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="4">0</span>M+</div>
+            <h3 data-i18n="hlCard5Title">Rebar Material Savings</h3>
+            <p data-i18n="hlCard5Desc">Over EGP 4M saved by correcting rebar schedules and cut lists across 20 villas.</p>
+          </div>
+
+          <div class="highlight-item">
+            <div class="stat-number"><span class="counter" data-target="100">0</span>%</div>
+            <h3 data-i18n="hlCard6Title">Technical Compliance Rate</h3>
+            <p data-i18n="hlCard6Desc">100% compliant governmental and private submissions with 0% technical rejection.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SELECTED PROJECTS -->
+    <section id="projects" class="projects-section section-pad">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="projTag">Portfolio</span>
+          <h2 class="section-title" data-i18n="projTitle">Selected Mega Projects</h2>
+          <div class="title-bar"></div>
+          <p class="section-subtitle" data-i18n="projSubtitle">A showcase of commercial, residential, medical, and infrastructure projects delivered in KSA and Egypt.</p>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-wrapper" role="region" aria-label="Project Filters">
+          <div class="filter-group" id="projectFilterGroup">
+            <button class="filter-btn active" data-filter="all" data-i18n="filterAll">All Projects</button>
+            <button class="filter-btn" data-filter="Medical" data-i18n="filterMedical">Medical</button>
+            <button class="filter-btn" data-filter="Residential" data-i18n="filterResidential">Residential</button>
+            <button class="filter-btn" data-filter="Industrial" data-i18n="filterIndustrial">Industrial</button>
+            <button class="filter-btn" data-filter="Infrastructure" data-i18n="filterInfra">Infrastructure</button>
+            <button class="filter-btn" data-filter="Governmental" data-i18n="filterGov">Governmental</button>
+          </div>
+        </div>
+
+        <!-- Projects Grid Container (Populated via JS) -->
+        <div class="projects-grid" id="projects-container" aria-live="polite">
+          <div class="loading-spinner">Loading projects...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BIM SAMPLES SHOWCASE -->
+    <section id="bim" class="bim-section section-pad bg-alt">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="bimTag">Digital Engineering</span>
+          <h2 class="section-title" data-i18n="bimTitle">BIM Work Samples & Coordination</h2>
+          <div class="title-bar"></div>
+          <p class="section-subtitle" data-i18n="bimSubtitle">Visualizations from real Revit models, clash detection reports, and automated quantity extraction.</p>
+        </div>
+
+        <div class="bim-grid" id="bim-container" aria-live="polite">
+          <!-- Populated via JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- CAREER TIMELINE -->
+    <section id="timeline" class="timeline-section section-pad">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="timelineTag">Experience</span>
+          <h2 class="section-title" data-i18n="timelineTitle">Career Timeline</h2>
+          <div class="title-bar"></div>
+        </div>
+
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">Mar 2025 – Present</div>
+            <div class="timeline-card">
+              <span class="timeline-badge" data-i18n="expLocKsa">KSA</span>
+              <h3 data-i18n="job5Title">Bidding Engineer & Cost Estimation Engineer</h3>
+              <h4>AlRuwais Company — Riyadh, KSA</h4>
+              <p data-i18n="job5Desc">Preparing high-accuracy bids, tender documentation, quantity cross-checking, and supplier negotiations for prominent government and commercial projects.</p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">Jun 2024 – Mar 2025</div>
+            <div class="timeline-card">
+              <span class="timeline-badge" data-i18n="expLocEg">Egypt</span>
+              <h3 data-i18n="job4Title">BIM Technical Office Engineer</h3>
+              <h4>Elgamal Group — Egypt</h4>
+              <p data-i18n="job4Desc">Spearheaded BIM modeling, clash coordination, and value engineering across residential compounds, reducing waste and drafting RFIs.</p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">Jan 2023 – Jun 2024</div>
+            <div class="timeline-card">
+              <span class="timeline-badge" data-i18n="expLocEg">Egypt</span>
+              <h3 data-i18n="job3Title">Project Engineer / Coordination</h3>
+              <h4>GEC — Egypt</h4>
+              <p data-i18n="job3Desc">Led quantity takeoff extraction from BIM models, unit rate build-up, and tender submittals with an exceptional accuracy record.</p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">Dec 2020 – Jan 2023</div>
+            <div class="timeline-card">
+              <span class="timeline-badge" data-i18n="expLocEg">Egypt</span>
+              <h3 data-i18n="job2Title">BIM Team Leader & Estimator</h3>
+              <h4>GEC — Egypt</h4>
+              <p data-i18n="job2Desc">Detailed 3D modeling for structural and architectural scopes, clash resolution with MEP subcontractors, and shop drawing production.</p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">Aug 2018 – Sep 2019</div>
+            <div class="timeline-card">
+              <span class="timeline-badge" data-i18n="expLocEg">Egypt</span>
+              <h3 data-i18n="job1Title">Site Civil Engineer</h3>
+              <h4>Cairo Contracting — Egypt</h4>
+              <p data-i18n="job1Desc">Supervised cast-in-place concrete, site execution compliance, submittals validation, and subcontractor daily progress tracking.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- EDUCATION & CERTIFICATIONS -->
+    <section id="education" class="education-section section-pad bg-alt">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="eduTag">Qualifications</span>
+          <h2 class="section-title" data-i18n="eduTitle">Education & Certifications</h2>
+          <div class="title-bar"></div>
+        </div>
+
+        <div class="edu-grid">
+          <div class="edu-card">
+            <div class="edu-icon"><i class="fa fa-graduation-cap"></i></div>
+            <h3 data-i18n="eduDegree">Bachelor of Building & Construction Engineering</h3>
+            <p class="edu-institution">Mansoura University — Faculty of Engineering</p>
+            <p class="edu-date">Graduation: 2019</p>
+            <p class="edu-notes" data-i18n="eduNotes">Comprehensive training in structural mechanics, technical office principles, surveying, and concrete design.</p>
+          </div>
+
+          <div class="edu-card">
+            <div class="edu-icon"><i class="fa fa-certificate"></i></div>
+            <h3 data-i18n="certTitle">Professional Certifications & Diplomas</h3>
+            <ul class="cert-list">
+              <li><strong>API & Scripting</strong> <span class="cert-year">2023</span></li>
+              <li><strong>Dynamo Visual Programming</strong> <span class="cert-year">2022</span></li>
+              <li><strong>Project Planning & Scheduling (CPM)</strong> <span class="cert-year">2021</span></li>
+              <li><strong>Comprehensive BIM Diploma</strong> <span class="cert-year">2021</span></li>
+              <li><strong>Professional Shop Drawing</strong> <span class="cert-year">2021</span></li>
+              <li><strong>Advanced Architectural Finishing</strong> <span class="cert-year">2020</span></li>
+              <li><strong>Site Implementation Preparation</strong> <span class="cert-year">2019</span></li>
+              <li><strong>Structural Design Analysis</strong> <span class="cert-year">2017</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="contact-section section-pad">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag" data-i18n="contactTag">Get In Touch</span>
+          <h2 class="section-title" data-i18n="contactTitle">Contact & Inquiries</h2>
+          <div class="title-bar"></div>
+          <p class="section-subtitle" data-i18n="contactSubtitle">Available for mega-project consultation, technical office leadership, and tender estimation roles.</p>
+        </div>
+
+        <div class="contact-grid">
+          <div class="contact-info-card">
+            <h3 data-i18n="contactCardsTitle">Direct Channels</h3>
+            
+            <div class="contact-item">
+              <div class="c-icon"><i class="fa fa-map-marker"></i></div>
+              <div>
+                <span class="c-label" data-i18n="cLocation">Location</span>
+                <p>Riyadh, Kingdom of Saudi Arabia</p>
+              </div>
+            </div>
+
+            <div class="contact-item">
+              <div class="c-icon"><i class="fa fa-phone"></i></div>
+              <div>
+                <span class="c-label" data-i18n="cPhone">Phone / WhatsApp</span>
+                <p><a href="tel:+966530677859">+966 53 067 7859</a></p>
+              </div>
+            </div>
+
+            <div class="contact-item">
+              <div class="c-icon"><i class="fa fa-envelope"></i></div>
+              <div>
+                <span class="c-label" data-i18n="cEmail">Email</span>
+                <p><a href="mailto:mohamedalaa834@gmail.com">mohamedalaa834@gmail.com</a></p>
+              </div>
+            </div>
+
+            <div class="contact-item">
+              <div class="c-icon"><i class="fa fa-linkedin"></i></div>
+              <div>
+                <span class="c-label">LinkedIn</span>
+                <p><a href="https://www.linkedin.com/in/mohamed-alaa-a1b371173/" target="_blank" rel="noopener">linkedin.com/in/mohamed-alaa-a1b371173</a></p>
+              </div>
+            </div>
+
+            <div class="contact-actions">
+              <a href="mailto:mohamedalaa834@gmail.com" class="btn btn-primary">
+                <i class="fa fa-paper-plane"></i>
+                <span data-i18n="sendEmailBtn">Send an Email</span>
+              </a>
+              <a href="https://wa.me/966530677859" target="_blank" rel="noopener" class="btn btn-whatsapp">
+                <i class="fa fa-whatsapp"></i> WhatsApp
+              </a>
+            </div>
+          </div>
+
+          <div class="contact-map-card">
+            <iframe 
+              title="Location Map"
+              src="https://maps.google.com/maps?q=Riyadh%20Saudi%20Arabia&t=&z=11&ie=UTF8&iwloc=&output=embed"
+              width="100%" 
+              height="360" 
+              style="border:0; border-radius:12px;" 
+              allowfullscreen="" 
+              loading="lazy">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-left">
+        <p>&copy; <span id="currentYear">2026</span> Mohamed Alaa Saleh. <span data-i18n="footerRights">All rights reserved.</span></p>
+      </div>
+      <div class="footer-links">
+        <a href="#about" data-i18n="navAbout">About</a>
+        <a href="#projects" data-i18n="navProjects">Projects</a>
+        <a href="#bim" data-i18n="navBim">BIM Samples</a>
+        <a href="#contact" data-i18n="navContact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- LIGHTBOX MODAL (Accessible, Single Instance) -->
+  <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-hidden="true" style="display: none;">
+    <div class="lightbox-overlay" id="lightboxOverlay"></div>
+    <div class="lightbox-container">
+      <button class="lightbox-close" id="lightboxClose" aria-label="Close dialog">&times;</button>
+      <div class="lightbox-content">
+        <img id="lightboxImg" class="lightbox-img" src="" alt="Enlarged Project Preview" />
+        <div class="lightbox-caption" id="lightboxCaption"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript Scripts -->
+  <script src="js/translations.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
